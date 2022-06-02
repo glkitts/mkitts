@@ -2,8 +2,8 @@
 title: "Margo Kitts, Ph.D."
 image: "mkitts.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
+  - label: CV
+    url: "MargoKitts_CV.pdf"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
