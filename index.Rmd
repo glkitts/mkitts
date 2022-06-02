@@ -12,7 +12,7 @@ output:
 
 ## Bio
 
----
+------------------------------------------------------------------------
 
 Margo Kitts has authored or edited ten books and published over fifty articles addressing religious conflict, ritual studies, and ancient studies.  Recent peer reviewed books are *Sacrifice:  Themes, Theories, and Controversies* (CUP 2022); *Elements of Ritual and Violence* (CUP 2018); and her edited *Martyrdom, Self-Sacrifice, and Self-Immolation:  Religious Perspectives on Suicide (*2018 OUP*).* Her most recent project as editor: Cambridge Companion to Religion and War, in press.
 
@@ -20,7 +20,7 @@ Margo Kitts has authored or edited ten books and published over fifty articles a
 
 ## Education
 
----
+------------------------------------------------------------------------
 
 **Ph.D.** \| University of California, Berkeley \| 1994
 
@@ -48,7 +48,7 @@ Margo Kitts has authored or edited ten books and published over fifty articles a
 
 ## Recent Teaching Experience
 
----
+------------------------------------------------------------------------
 
 **Professor of East-West Humanities** \| Hawai'i Pacific University, Honolulu, HI \| 2006 - Present
 
@@ -56,8 +56,16 @@ Margo Kitts has authored or edited ten books and published over fifty articles a
 
 -   Coordinator for Religious Studies and East-West Classical Studies
 
----
+------------------------------------------------------------------------
 
 **Lecturer, Classics and Religious Studies** \| Iowa State University, Ames, IA \| 2003 - 2006
 
 -   Taught courses on: Greek and Roman epics, world religions, war in world religions, women in world religions, and Buddhism.
+
+<br>
+
+## Recent publications
+
+------------------------------------------------------------------------
+
+[![](./Kitts_Martyrdom_cover.jpeg "Martyrdom, Self-Sacrifice, and Self-Immolation"){width="298"}](https://global.oup.com/academic/product/martyrdom-self-sacrifice-and-self-immolation-9780190656485?cc=us&lang=en&) [![](./Kitts_Sacrifice_cover.jpeg "Sacrifice - Themes, Theories, and Controversies"){width="321"}](https://www.cambridge.org/core/elements/abs/sacrifice/9A5583880E76A99D63D36D488B62FD0C)
