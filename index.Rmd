@@ -9,28 +9,55 @@ links:
 output:
   postcards::trestles
 ---
- 
+
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+---
+
+Margo Kitts has authored or edited ten books and published over fifty articles addressing religious conflict, ritual studies, and ancient studies.  Recent peer reviewed books are *Sacrifice:  Themes, Theories, and Controversies* (CUP 2022); *Elements of Ritual and Violence* (CUP 2018); and her edited *Martyrdom, Self-Sacrifice, and Self-Immolation:  Religious Perspectives on Suicide (*2018 OUP*).* Her most recent project as editor: Cambridge Companion to Religion and War, in press.
+
+<br>
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+---
 
-Ph.D. in Computer Science | September 2009 - May 2014
+**Ph.D.** \| University of California, Berkeley \| 1994
 
-**The University of California, Berkeley** | Berkeley, CA
+-   Joint Program in Near Eastern Religions, with the Graduate Theological Union.
 
-B.S. in Computer Science | September 2005 - May 2009
+-   Dissertation Title:  ***Oath-Making in the Iliad***
 
-## Experience
+-   Committee:  Michael Nagler, Classics and Peace Studies, Chair; Anthony Bullock, Classics; Ruggero Stefanini, Near Eastern Studies; Victor Gold, Graduate Theological Union;  Richard Payne, Institute of Buddhist Studies.
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+-   Comprehensive exams:  Hittite ritual, Greek sacrifice, Homer as an oral poet.
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+------------------------------------------------------------------------
+
+**MA, with distinction** \| Graduate Theological Union \| 1984
+
+-   History and Phenomenology of Religion
+
+------------------------------------------------------------------------
+
+**BA, with distinction** \| California State University at Chico \| 1975
+
+-   Philosophy
+
+<br>
+
+## Recent Teaching Experience
+
+---
+
+**Professor of East-West Humanities** \| Hawai'i Pacific University, Honolulu, HI \| 2006 - Present
+
+-   Assistant (2006-2008), Associate (2008-2013) and Full (2013 forward)
+
+-   Coordinator for Religious Studies and East-West Classical Studies
+
+---
+
+**Lecturer, Classics and Religious Studies** \| Iowa State University, Ames, IA \| 2003 - 2006
+
+-   Taught courses on: Greek and Roman epics, world religions, war in world religions, women in world religions, and Buddhism.
