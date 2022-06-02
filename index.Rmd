@@ -1,6 +1,6 @@
 ---
-title: "Frank Hermosillo"
-image: "tobi.jpg"
+title: "Margo Kitts, Ph.D."
+image: "mkitts.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
