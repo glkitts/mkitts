@@ -1,2 +1,2 @@
 # mkitts
-Personal website of Dr. Margo Kitts.
+Personal website of Dr. Margo Kitts, Ph.D.
