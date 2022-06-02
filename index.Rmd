@@ -4,10 +4,6 @@ image: "mkitts.jpg"
 links:
   - label: CV
     url: "MargoKitts_CV.pdf"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
   - label: Email
     url: "mailto:email@email.com"
 output:
