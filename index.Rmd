@@ -5,7 +5,7 @@ links:
   - label: CV
     url: "MargoKitts_CV.pdf"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:mkitts@hpu.edu"
 output:
   postcards::trestles
 ---
