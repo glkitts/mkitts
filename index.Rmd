@@ -68,4 +68,4 @@ Margo Kitts has authored or edited ten books and published over fifty articles a
 
 ------------------------------------------------------------------------
 
-[![](./Kitts_Martyrdom_cover.jpeg "Martyrdom, Self-Sacrifice, and Self-Immolation"){width="298"}](https://global.oup.com/academic/product/martyrdom-self-sacrifice-and-self-immolation-9780190656485?cc=us&lang=en&) [![](./Kitts_Sacrifice_cover.jpeg "Sacrifice - Themes, Theories, and Controversies"){width="321"}](https://www.cambridge.org/core/elements/abs/sacrifice/9A5583880E76A99D63D36D488B62FD0C)
+[![](./Kitts_Martyrdom_cover.jpeg "Martyrdom, Self-Sacrifice, and Self-Immolation"){width="232"}](https://global.oup.com/academic/product/martyrdom-self-sacrifice-and-self-immolation-9780190656485?cc=us&lang=en&) [![](./Kitts_Sacrifice_cover.jpeg "Sacrifice - Themes, Theories, and Controversies"){width="250"}](https://www.cambridge.org/core/elements/abs/sacrifice/9A5583880E76A99D63D36D488B62FD0C) [![](./Kitts_Buddhist_Violence.jpeg "Buddhist Violence and Religious Authority"){width="234"}](https://www.equinoxpub.com/home/buddhist-violence/)
