@@ -1,9 +1,9 @@
 ---
 title: "Margo Kitts, Ph.D."
-image: "mkitts.jpg"
+image: "files/mkitts.jpg"
 links:
   - label: CV
-    url: "MargoKitts_CV.pdf"
+    url: "files/MargoKitts_CV.pdf"
   - label: Email
     url: "mailto:mkitts@hpu.edu"
 output:
@@ -14,7 +14,7 @@ output:
 
 ------------------------------------------------------------------------
 
-Margo Kitts has authored or edited eleven books and published over fifty articles addressing religious conflict, ritual studies, and ancient studies.  Recent peer reviewed books are *Sacrifice:  Themes, Theories, and Controversies* (CUP 2022); *Elements of Ritual and Violence* (CUP 2018); and her edited *Martyrdom, Self-Sacrifice, and Self-Immolation:  Religious Perspectives on Suicide (*2018 OUP*).* Her most recent project as editor: Cambridge Companion to Religion and War, in press.
+Margo Kitts has authored or edited eleven books and published over fifty articles addressing religious conflict, ritual studies, and ancient studies.  Recent peer reviewed books are *Sacrifice:  Themes, Theories, and Controversies* (CUP 2022); *Elements of Ritual and Violence* (CUP 2018); and her edited *Martyrdom, Self-Sacrifice, and Self-Immolation:  Religious Perspectives on Suicide* (2018 OUP*).* Her most recent project as editor: Cambridge Companion to Religion and War, in press.
 
 <br>
 
@@ -68,12 +68,12 @@ Margo Kitts has authored or edited eleven books and published over fifty article
 
 ------------------------------------------------------------------------
 
-[![](./Cambrige_companion_religion_war.jpeg "The Cambridge Companion to Religion and War"){width="232"}](https://doi.org/10.1017/9781108884075) [![](./Kitts_Martyrdom_cover.jpeg "Martyrdom, Self-Sacrifice, and Self-Immolation"){width="232"}](https://global.oup.com/academic/product/martyrdom-self-sacrifice-and-self-immolation-9780190656485?cc=us&lang=en&) [![](./Kitts_Sacrifice_cover.jpeg "Sacrifice - Themes, Theories, and Controversies"){width="250"}](https://www.cambridge.org/core/elements/abs/sacrifice/9A5583880E76A99D63D36D488B62FD0C) [![](./Kitts_Buddhist_Violence.jpeg "Buddhist Violence and Religious Authority"){width="234"}](https://www.equinoxpub.com/home/buddhist-violence/)
+[![](./files/Cambrige_companion_religion_war.jpeg "The Cambridge Companion to Religion and War"){width="232"}](https://doi.org/10.1017/9781108884075) [![](./files/Kitts_Martyrdom_cover.jpeg "Martyrdom, Self-Sacrifice, and Self-Immolation"){width="232"}](https://global.oup.com/academic/product/martyrdom-self-sacrifice-and-self-immolation-9780190656485?cc=us&lang=en&) [![](./files/Kitts_Sacrifice_cover.jpeg "Sacrifice - Themes, Theories, and Controversies"){width="250"}](https://www.cambridge.org/core/elements/abs/sacrifice/9A5583880E76A99D63D36D488B62FD0C) [![](./files/Kitts_Buddhist_Violence.jpeg "Buddhist Violence and Religious Authority"){width="234"}](https://www.equinoxpub.com/home/buddhist-violence/)
 
 <br>
 
 -   ["Contextualizing the Proud Boys:  Violence, Misogyny, and Religious Nationalism."  Oxford Research Encyclopedia of Religion.](https://doi.org/10.1093/acrefore/9780199340378.013.1066)
--   ["Religious Violence since 1920,"  forthcoming in  A Cultural  History of Violence in the Modern Age, Ed. Joanna Bourke (Bloomsbury Academic).](./ReligiousViolence_MargoKitts_October2023.pdf "Religious Violence since 1920")
+-   ["Religious Violence since 1920,"  forthcoming in  A Cultural  History of Violence in the Modern Age, Ed. Joanna Bourke (Bloomsbury Academic).](./files/ReligiousViolence_MargoKitts_October2023.pdf "Religious Violence since 1920")
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,10 @@ Margo Kitts has authored or edited eleven books and published over fifty article
 
 <br>
 
--   ["The *Martys* and Spectacular Death:  From Homer to the Roman Arena."  Journal of Religion and Violence 6.2 (2018): 267-294.](./07_Kitts6.2_Martus.pdf)
+-   ["The *Martys* and Spectacular Death:  From Homer to the Roman Arena."  Journal of Religion and Violence 6.2 (2018): 267-294.](./files/07_Kitts6.2_Martus.pdf)
+
+## Syllabi
+
+-   [War in World Religions, Fall 2024](./files/REL_3600_syllabus_fall_2024.pdf)
+
+
